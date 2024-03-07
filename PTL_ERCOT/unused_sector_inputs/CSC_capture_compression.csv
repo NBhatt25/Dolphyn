@@ -1,0 +1,4 @@
+﻿CO2_Capture_Compression,Zone,etaPCO2_MWh_per_tonne,Inv_Cost_per_tonne_per_hr_yr,Fixed_OM_Cost_per_tonne_per_hr_yr,Min_capacity_tonne_per_hr,Max_capacity_tonne_per_hr,CO2_Capture_Compression_Min_Output,CO2_Capture_Compression_Max_Output,Ref_capacity_tonne_per_hr,Ref_CAPEX_per_yr,Ref_Fixed_OM_per_yr,MGA,Resource_Type
+ERC_REST_CAPTURE_COMP,1,0.111111111,43864.09234,13780,0,30000,0,1,300,13159227.7,4134000,1,Capture_Comp
+ERC_WEST_CAPTURE_COMP,2,0.111111111,43864.09234,13780,0,30000,0,1,300,13159227.7,4134000,1,Capture_Comp
+ERC_PHDL_CAPTURE_COMP,3,0.111111111,43864.09234,13780,0,30000,0,1,300,13159227.7,4134000,1,Capture_Comp
