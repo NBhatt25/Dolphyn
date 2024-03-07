@@ -40,6 +40,9 @@ setup_TDR(inputs_path, settings_path, mysetup)
 print_and_log("Configuring Solver")
 
 OPTIMIZER = configure_solver(mysetup["Solver"], settings_path, Gurobi.Optimizer)
+# Improve numerical stability by setting the BarHomogeneous attribute to 1
+# This will slightly increase the solve time
+set_optimizer_attribute(OPTIMIZER, "BarHomogeneous", 1)
 
 # #### Running a case
 
