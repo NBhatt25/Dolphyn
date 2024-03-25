@@ -1,0 +1,4 @@
+﻿CO2_Storage,Zone,etaPCO2_MWh_per_tonne,Inv_Cost_per_tonne_per_yr_yr,Fixed_OM_Cost_per_tonne_per_yr_yr,Min_capacity_tonne_per_yr,Max_capacity_tonne_per_yr,CO2_Injection_Min_Output,CO2_Injection_Max_Output,Ref_capacity_tonne_per_yr,Ref_CAPEX_per_yr,Ref_Fixed_OM_per_yr
+ERC_REST_GEO_SEQ,1,0.007,0.029417482,0.087123288,0,1236230000,0,1,7300000,434254.5141,636000
+ERC_WEST_GEO_SEQ,2,0.007,0.029417482,0.087123288,0,101640000,0,1,7300000,434254.5141,636000
+ERC_PHDL_GEO_SEQ,3,0.007,0.029417482,0.087123288,0,13900000,0,1,7300000,434254.5141,636000
